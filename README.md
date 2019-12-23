@@ -1,4 +1,4 @@
-# A simple Python Script that uses a pre-trained Caffee Model to Predict Age and Gender.
+# Facial Recognition with Age and Gender Prediction
 
 Requirements
 -----------
